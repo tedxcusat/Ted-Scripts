@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Test user 1",
+    "phno": "9999999999",
+    "email": "testuser1@gmail.com",
+    "seatNo": 1
+  },
+  {
+    "name": "Test user 2",
+    "phno": "9999999999",
+    "email": "testuser2@gmail.com",
+    "seatNo": 10
+  },
+  {
+    "name": "Test user 3",
+    "phno": "9999999999",
+    "email": "testuser3@gmail.com",
+    "seatNo": 50
+  }
+]
